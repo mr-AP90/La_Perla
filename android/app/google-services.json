@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "419848928979",
+    "project_id": "app-la-perla",
+    "storage_bucket": "app-la-perla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419848928979:android:7c9763c0fe62eba97f9e26",
+        "android_client_info": {
+          "package_name": "com.la_perla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419848928979-b3vjshvkoca7sj6osql0rko4r15ejn9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJNBNFOP77x-HmkX_lcVo1yiIPUqBiR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419848928979-b3vjshvkoca7sj6osql0rko4r15ejn9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419848928979-76egmt0ajpm44h6c7boftjfbrl4m59na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bestFlutterUiTemplates"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

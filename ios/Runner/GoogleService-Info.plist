@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419848928979-76egmt0ajpm44h6c7boftjfbrl4m59na.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419848928979-76egmt0ajpm44h6c7boftjfbrl4m59na</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBt1Tj1NO4_SgvdRddMHJ63w3946QjZYC4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419848928979</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bestFlutterUiTemplates</string>
+	<key>PROJECT_ID</key>
+	<string>app-la-perla</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-la-perla.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419848928979:ios:eb4f258298f335407f9e26</string>
+</dict>
+</plist>
